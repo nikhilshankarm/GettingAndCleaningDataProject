@@ -1,9 +1,8 @@
 
 #Getting and Cleaning Data Project Script
 
-#' Set Working Directory
-setwd("d:")
-setwd("D:\\XLRI\\CoursEra\\Data Cleaning\\Project\\getdata_projectfiles_UCI HAR Dataset")
+#' Set Working Directory (To be changed accordingly)
+setwd("c:")
 
 #`Dataset URL
 fileUrl<-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
